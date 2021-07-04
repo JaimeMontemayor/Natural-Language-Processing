@@ -1,0 +1,118 @@
+Name,Class,Style,Difficulty,DamageType,Damage,Sturdiness,Crowd-Control,Mobility,Functionality
+Zyra,Mage-Support,10,2,M,3,1,3,1,1.0
+Zilean,Mage-Support,10,2,M,2,1,2,2,3.0
+Ziggs,Mage,9,2,M,3,1,2,2,1.0
+Zac,Tank-Warrior,10,1,M,2,3,3,2,1.0
+Yuumi,Support,10,1,M,1,1,1,3,3.0
+Yorick,Warrior,6,2,PM,2,2,2,1,2.0
+Xin Zhao,Warrior,4,1,P,2,2,2,2,1.0
+Xerath,Mage,9,2,M,3,1,2,1,1.0
+Xayah,Marksman,4,2,P,3,2,3,1,1.0
+Wukong,Warrior,6,1,P,2,2,2,2,1.0
+Warwick,Warrior,4,1,P,2,2,2,1,1.0
+Volibear,Tank-Warrior,4,1,P,2,3,2,2,1.0
+Vladimir,Mage-Warrior,10,2,M,3,2,1,1,1.0
+Vi,Warrior,6,1,P,2,2,3,2,1.0
+Vel Koz,Mage,10,2,M,3,1,2,1,1.0
+Veigar,Mage,10,2,M,3,1,3,1,1.0
+Vayne,Marksman,1,2,P,3,1,2,2,1.0
+Varus,Marksman,3,2,P,3,1,2,1,1.0
+Urgot,Warrior,6,2,P,2,2,2,1,1.0
+Udyr,Warrior,4,2,PM,2,3,2,2,1.0
+Twitch,Marksman,1,2,P,3,1,1,2,1.0
+Twisted Fate,Mage-Assasin,7,2,M,3,1,2,2,2.0
+Tryndamere,Warrior,2,1,P,3,2,1,2,1.0
+Trundle,Warrior,4,1,P,2,3,1,1,2.0
+Tristana,Marksman,3,1,P,3,1,2,2,1.0
+Teemo,Assasin,3,1,M,3,1,2,1,2.0
+Taric,Tank-Support,8,2,M,1,2,2,1,3.0
+Talon,Assasin,7,2,P,3,1,1,2,1.0
+Taliyah,Mage,10,2,M,3,1,2,1,3.0
+Tahm Kench,Tank-Support,7,1,M,2,3,2,1,3.0
+Syndra,Mage,10,2,M,3,1,2,1,1.0
+Swain,Mage,10,2,M,2,2,2,1,1.0
+Soraka,Support,10,1,M,1,1,2,1,3.0
+Sona,Support,9,1,M,2,1,2,1,2.0
+Skarner,Warrior,5,1,PM,1,3,3,1,1.0
+Sivir,Marksman,2,2,P,3,1,1,1,2.0
+Sion,Warrior,7,1,P,2,3,3,1,1.0
+Singed,Tank-Warrior,10,2,M,2,3,2,2,1.0
+Shyvana,Warrior,6,1,P,2,2,1,2,1.0
+Shen,Tank,5,2,PM,2,3,2,2,3.0
+Shaco,Assasin,5,2,P,3,1,2,2,2.0
+Sejuani,Tank,8,2,M,2,2,3,2,1.0
+Ryze,Mage,10,2,M,3,1,2,2,2.0
+Riven,Warrior,8,2,P,3,2,2,3,1.0
+Rengar,Assasin,4,2,P,3,1,2,2,1.0
+Renekton,Warrior,5,1,P,2,2,2,2,1.0
+Rek Sai,Warrior,4,2,P,2,2,2,2,2.0
+Rammus,Tank,7,1,PM,2,3,3,2,1.0
+Rakan,Support,9,2,M,1,2,3,3,3.0
+Quinn,Marksman,3,2,P,3,1,2,3,1.0
+Qiyana,Warrior,7,2,P,3,1,2,2,1.0
+Pyke,Support,7,2,P,2,1,3,3,1.0
+Poppy,Tank-Warrior,8,2,P,2,3,3,2,1.0
+Pantheon,Warrior-Assasin,8,1,P,3,2,2,2,1.0
+Ornn,Warrior,7,2,PM,1,3,3,1,2.0
+Orianna,Mage,9,2,M,2,1,2,1,2.0
+Olaf,Warrior,4,2,P,2,2,2,1,1.0
+Nunu,Tank,8,1,M,1,3,2,1,2.0
+Nocturne,Assasin,4,1,P,3,1,2,2,2.0
+Neeko,Mage,8,1,M,3,1,3,1,1.0
+Nautilus,Tank-Support,8,2,M,1,3,3,1,1.0
+Nasus,Warrior,3,1,P,2,3,2,1,1.0
+Nami,Support,9,2,M,1,1,3,1,2.0
+Morgana,Mage-Support,10,1,M,2,1,3,1,2.0
+Mordekaiser,Warrior,8,2,M,3,2,1,1,2.0
+Miss Fortune,Marksman,4,1,P,3,1,1,1,1.0
+Master Yi,Assasin,2,1,P,3,1,1,2,1.0
+Maokai,Tank,8,1,M,1,3,3,1,2.0
+Malzahar,Mage,10,1,M,3,1,3,1,2.0
+Malphite,Tank,8,1,M,1,3,3,1,1.0
+Lux,Mage,9,1,M,3,1,2,1,2.0
+Lulu,Support,8,2,M,2,1,2,1,3.0
+Lucian,Marksman,4,2,P,3,1,1,3,1.0
+Lissandra,Mage,10,2,M,3,1,3,2,1.0
+Leona,Tank,9,1,M,1,3,3,1,1.0
+Kog Maw,Marksman,2,2,PM,3,1,1,1,1.0
+Kled,Warrior,3,2,P,3,2,1,3,1.0
+Kha Zix,Assasin,6,2,P,3,1,1,2,1.0
+Kennen,Mage,7,2,M,3,1,3,1,1.0
+Kayn,Assasin,3,2,P,3,1,1,3,1.0
+Kayle,Mage,3,2,PM,3,1,1,1,3.0
+Kassadin,Mage-Assasin,9,2,M,3,2,1,3,1.0
+Karthus,Mage,10,2,M,3,1,1,1,2.0
+Karma,Mage-Support,10,1,M,2,1,2,1,2.0
+Kai Sa,Marksman,2,2,PM,3,1,0,3,1.0
+Jinx,Marksman,2,2,P,3,1,2,1,1.0
+Jhin,Marksman,3,2,P,3,1,2,1,1.0
+Jayce,Warrior,5,2,P,3,1,1,2,2.0
+Jax,Warrior,2,2,PM,3,2,2,2,1.0
+Jarvan IV,Tank-Warrior,6,1,P,2,2,2,2,2.0
+Janna,Support,10,1,M,1,1,3,1,3.0
+Illaoi,Tank-Warrior,6,2,P,3,2,1,1,1.0
+Heimerdinger,Mage,10,2,M,3,1,2,1,2.0
+Hecarim,Warrior,7,2,P,2,2,2,2,1.0
+Graves,Marksman,2,2,P,3,2,1,2,2.0
+Gragas,Mage-Warrior,9,2,M,2,3,3,2,1.0
+Garen,Tank-Warrior,8,1,P,2,3,1,1,1.0
+Galio,Mage,10,2,M,2,3,3,2,1.0
+Fiddlesticks,Mage,10,2,M,3,1,3,1,1.0
+Ezreal,Mage-Marksman,6,2,PM,3,1,1,2,1.0
+Evelynn,Assasin,8,2,M,2,2,1,2,2.0
+Dr.Mundo,Tank-Warrior,6,1,PM,2,3,1,1,1.0
+Diana,Mage-Warrior,7,1,M,3,2,2,2,1.0
+Darius,Tank-Warrior,6,2,P,3,2,2,1,1.0
+Corki,Marksman,5,2,PM,3,1,1,2,1.0
+Cho Gath,Mage-Warrior,7,1,M,2,3,2,1,1.0
+Caitlyn,Marksman,2,1,P,3,1,2,2,1.0
+Braum,Tank-Support,8,2,M,1,2,3,1,2.0
+Brand,Mage,10,2,M,3,1,2,1,1.0
+Blitzcrank,Support,3,1,M,1,2,3,1,1.0
+Ashe,Marksman,3,1,P,2,1,3,1,2.0
+Annie,Mage,10,1,M,3,1,3,1,2.0
+Amumu,Tank,9,1,M,2,3,3,1,1.0
+Alistar,Tank-Support,7,1,M,1,3,3,1,2.0
+Akali,Assasin,7,2,PM,3,1,1,3,1.0
+Ahri,Mage,10,2,M,3,1,2,3,1.0
+Aatrox,Warrior,3,2,P,3,3,2,2,2.0
